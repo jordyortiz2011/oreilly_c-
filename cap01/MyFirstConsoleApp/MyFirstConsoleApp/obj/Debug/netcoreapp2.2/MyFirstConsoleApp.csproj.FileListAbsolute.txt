@@ -1,0 +1,11 @@
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.deps.json
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.runtimeconfig.json
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.runtimeconfig.dev.json
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.dll
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp2.2\MyFirstConsoleApp.pdb
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.csprojAssemblyReference.cache
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.AssemblyInfoInputs.cache
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.AssemblyInfo.cs
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.dll
+D:\Usuario\Documentos\C#_ejemplos\cap01\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp2.2\MyFirstConsoleApp.pdb
