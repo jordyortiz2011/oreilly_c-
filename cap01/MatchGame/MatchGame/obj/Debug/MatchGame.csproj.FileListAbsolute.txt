@@ -1,0 +1,15 @@
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\App.g.cs
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+D:\zJaor\Libros\Oreylli\oreilly_c-\cap01\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
